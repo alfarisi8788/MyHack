@@ -1,0 +1,11 @@
+Connection Failure...
+Telah terjadi kesalahan!! Mungkin :
+[-]Server down
+[-]Cheat disuspend
+[-]Anda belum terdaftar.
+[-]Durasi Anda telah habis.
+[-]Hubungi Seller Anda untuk info lebih lanjut!!
+[-]Terima Kasih!!!
+
+
+Your HWID : 250af4ae57282fefb33c5847144f5c52
